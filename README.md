@@ -1,4 +1,7 @@
-# Mask_Reminder
+# Mask Reminder Aplication
+
+Google Play Link:
+https://play.google.com/store/apps/details?id=com.apricot.maskreminder
 
 ## How My Location Service Works? ##
  /*****************************************************************************
