@@ -17,7 +17,7 @@ import com.google.android.gms.location.*
 
 /*****************************************************************************
  * Since using GPS may cause significant amount of power usage in long term,
- * I decided not to use it. But it is highly possible for the other location
+ * I decided not to force users to use it. But it is highly possible for the other location
  * data sources like wifi or cellular data to be incorrect. To solve this problem,
  * I have written the algorithm below.
  *
@@ -109,7 +109,7 @@ class LocationService : Service() {
                 val accuracy = localLocation.accuracy
 
                 /* if user is far away from circle bounds and was not at outside before ==>  */
-                if(distance > circleSize && !sharedPref.isOutside() && accuracy < 300f){
+                if(distance > circleSize && !sharedPref.isOutside() && accuracy < 200f){
                     //increase 'successful' outside test count
                     sharedPref.increaseSuccessfulOutsideTestCount()
                     val successfulTryCount = sharedPref.getSuccessfullOutsideTestCount()
