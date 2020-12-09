@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "58510491960",
+    "firebase_url": "https://mask-reminder-d3b3c.firebaseio.com",
+    "project_id": "mask-reminder-d3b3c",
+    "storage_bucket": "mask-reminder-d3b3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58510491960:android:5033a1dbf5a98129bac1cd",
+        "android_client_info": {
+          "package_name": "com.apricot.maskreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58510491960-28n7h68j7fahjlfeljg81pa4p1djpsbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apricot.maskreminder",
+            "certificate_hash": "e09ab6941cc16d4fa05c536e53f82300fa517b18"
+          }
+        },
+        {
+          "client_id": "58510491960-bkcbjhc2b2teq2av72prrgcrmsbbs7qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpMvI5XeXaElIaukCtVn09wy6tfwoDzYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58510491960-bkcbjhc2b2teq2av72prrgcrmsbbs7qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

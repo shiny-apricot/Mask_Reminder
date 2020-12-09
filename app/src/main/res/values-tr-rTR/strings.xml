@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Maske Hatırlatıcı</string>
+    <string name="entrance_text">Dışarı çıktığında seni uyarabilmek için nerede yaşadığını öğrenmemiz gerekiyor.</string>
+    <string name="entrance_text_2">Merak Etme! Bilgilerin kimseyle paylaşılmayacak</string>
+    <string name="next">Devam Et</string>
+    <string name="pick">Seç</string>
+    <string name="edit_home">Ev Konumunu Değiştir</string>
+    <string name="warner_active">Maske Hatırlatıcı Aktif</string>
+    <string name="warner_passive">Maske Hatırlatıcı Kapalı</string>
+    <string name="select_here">Burayı Seç</string>
+    <string name="notification_persistent">Maske Hatırlatıcı Aktif</string>
+    <string name="debug_screen">Debug Ekranı</string>
+    <string name="options_screen">Seçenekler</string>
+    <string name="about">Uygulama Hakkında</string>
+    <string name="mask_reminder">Maske Hatırlatıcı</string>
+    <string name="contact_me">Bize ulaşın</string>
+    <string name="my_email" translatable="false">software.apricot@gmail.com</string>
+    <string name="instruct_2">Yukarıdaki noktayı sürükleyerek evinin büyüklüğünü ayarlayabilirsin.
+        (Çok küçük yapman tavsiye edilmez)</string>
+    <string name="instruct_1">Haritada istediğin yere tıklayarak ev konumunu değiştirebilirsin.</string>
+    <string name="instruct_3">Sağdaki küçük kareye tıklayarak uydu görüntüsüne geçebilirsin.</string>
+    <string name="location_warning">Konum ayarını açmalısınız…</string>
+    <string name="open">Aç</string>
+    <string name="techs">Bu uygulamada kullanılan teknolojiler:</string>
+    <string name="tech_list" translatable="false"> Hilt (Dagger)
+        \n Google Location Services
+        \n Google Maps API
+        \n Room Database (passive)
+        \n MVVM Architecture
+        \n Coroutines
+        \n Services
+        \n Navigation Components
+        \n Material Design</string>
+    <string name="close_notif">Kalıcı Bildirimi Kapat</string>
+    <string name="it_may_not_work">(Bazı telefonlarda düzgün çalışmayabilir)</string>
+    <string name="outside_warning">Dışarıdasın. Maskeni almayı unutma!</string>
+    <string name="rate_us">Play Store\'da bizi oylayin</string>
+    <string name="click_somewhere_on_the_map">
+        Haritanın üzerine tıkla
+    </string>
+    <string name="return_your_location">
+        Konumuna Geri Dön
+    </string>
+</resources>

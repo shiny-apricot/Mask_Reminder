@@ -1,0 +1,92 @@
+<resources>
+    <string name = "app_name">
+        Rappel de masque
+    </string>
+    <string name = "entrance_text">
+        Nous avons besoin de connaître votre domicile afin de vous avertir chaque fois que vous sortez.
+    </string>
+    <string name = "entrance_text_2">
+        Ne vous inquiétez pas! Vos données ne seront partagées avec personne
+    </string>
+    <string name = "next">
+        Prochain
+    </string>
+    <string name = "pick">
+        Choisir
+    </string>
+    <string name = "edit_home">
+        Changer votre emplacement de base
+    </string>
+    <string name = "warner_active">
+        Le rappel de masque est actif
+    </string>
+    <string name = "warner_passive">
+        Le rappel de masque est passif
+    </string>
+    <string name = "select_here">
+        Sélectionnez ici
+    </string>
+    <string name = "notification_persistent">
+        Le rappel de masque est actif
+    </string>
+    <string name = "debug_screen">
+        Écran de débogage
+    </string>
+    <string name = "options_screen">
+        Options
+    </string>
+    <string name = "about">
+        À propos
+    </string>
+    <string name ="mask_reminder">
+        Rappel de masque
+    </string>
+    <string name = "contact_me">
+        Nous contacter
+    </string>
+    <string name = "my_email">
+        software.apricot@gmail.com
+    </string>
+    <string name = "instruct_2">
+        Vous pouvez modifier la taille de votre emplacement de base en faisant glisser le point ci-dessus.
+         (Nous ne vous recommandons pas de le rendre si petit)
+    </string>
+    <string name = "instruct_1">
+        Vous pouvez modifier votre emplacement de base en cliquant n\'importe où sur la carte.
+    </string>
+    <string name = "instruct_3">
+        Vous pouvez voir la vue satellite en cliquant sur l\'image à gauche.
+    </string>
+    <string name = "location_warning">
+        Vous devez ouvrir le paramètre de localisation…
+    </string>
+    <string name = "open">
+        Ouvert
+    </string>
+    <string name = "techs">
+        Technologies utilisées dans cette application:
+    </string>
+    <string name = "tech_list">
+        Poignée (poignard)
+        \ n Services de localisation Google
+        \ n API Google Maps
+        \ n Base de données de la salle (passive)
+        \ n Architecture MVVM
+        \ n Coroutines
+        \ n Services
+        \ n Composants de navigation
+        \ n Conception des matériaux
+    </string>
+    <string name = "close_notif">
+        Fermer la notification persistante
+    </string>
+    <string name = "it_may_not_work">
+        (Cela peut ne pas fonctionner correctement sur certains appareils)
+    </string>
+    <string name = "outside_warning">
+        Vous êtes dehors! Avez-vous votre masque?
+    </string>
+    <string name="rate_us">
+        Évaluez-nous sur Play Store
+    </string>
+</resources>

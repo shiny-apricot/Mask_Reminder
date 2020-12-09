@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">
+یادآوری ماسک    </string>
+    <string name="entrance_text">
+ما باید مکان خانه شما را بدانیم تا هر زمان که بیرون می روید به شما هشدار دهیم.    </string>
+    <string name="entrance_text_2">
+نگران نباش داده های شما با کسی به اشتراک گذاشته نمی شود    </string>
+    <string name="next">
+        بعد
+    </string>
+    <string name="pick">
+        انتخاب
+    </string>
+    <string name="edit_home">
+مکان پایه خود را تغییر دهید    </string>
+    <string name="warner_active">
+یادآوری ماسک فعال است    </string>
+    <string name="warner_passive">
+یادآوری ماسک منفعل است    </string>
+    <string name="select_here">
+اینجا را انتخاب کنید    </string>
+    <string name="notification_persistent">
+یادآوری ماسک فعال است    </string>
+    <string name="debug_screen">
+صفحه اشکال زدایی    </string>
+    <string name="options_screen">
+        گزینه ها
+    </string>
+    <string name="about">
+        در باره
+    </string>
+    <string name="mask_reminder">
+یادآوری ماسک    </string>
+    <string name="contact_me">
+با ما تماس بگیرید    </string>
+    <string name="my_email">
+        software.apricot@gmail.com
+    </string>
+    <string name="instruct_2">
+        با کشیدن نقطه بالا می توانید مکان پایه خود را تغییر دهید.
+         (ما توصیه نمی کنیم آن را خیلی کوچک کنید)
+    </string>
+    <string name="instruct_1">
+با کلیک کردن روی هر قسمت از نقشه می توانید مکان پایه خود را تغییر دهید.    </string>
+    <string name="instruct_3">
+با کلیک روی تصویر سمت چپ می توانید نمای ماهواره را مشاهده کنید.    </string>
+    <string name="location_warning">
+باید تنظیمات مکان را باز کنید    </string>
+    <string name="open">
+        باز کن
+    </string>
+    <string name="techs">
+فن آوری هایی که در این برنامه استفاده می شود:    </string>
+    <string name="tech_list">
+        Hilt (Dagger)
+        \n Google Location Services
+        \n Google Maps API
+        \n Room Database (passive)
+        \n MVVM Architecture
+        \n Coroutines
+        \n Services
+        \n Navigation Components
+        \n Material Design
+    </string>
+    <string name="close_notif">
+اعلان مداوم را ببندید    </string>
+    <string name="it_may_not_work">
+(ممکن است در بعضی از دستگاه ها به درستی کار نکند)    </string>
+    <string name="outside_warning">
+شما بیرون هستید ماسک خود را گرفتید؟    </string>
+    <string name="rate_us">
+    به ما در فروشگاه بازی امتیاز دهید
+    </string>
+    <string name="click_somewhere_on_the_map">
+              روی نقشه جایی کلیک کنید
+    </string>
+    <string name="return_your_location">
+          مکان خود را برگردانید
+    </string>
+</resources>

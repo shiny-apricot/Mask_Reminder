@@ -1,0 +1,92 @@
+<resources>
+    <string name = "app_name">
+        マスクリマインダー
+    </string>
+    <string name = "entrance_text">
+        外に出るたびに警告するために、私たちはあなたの家の場所を知る必要があります。
+    </string>
+    <string name = "entrance_text_2">
+        心配しないで！あなたのデータは誰とも共有されません
+    </string>
+    <string name = "next">
+        次
+    </string>
+    <string name = "pick">
+        ピック
+    </string>
+    <string name = "edit_home">
+        基本の場所を変更する
+    </string>
+    <string name = "warner_active">
+        マスクリマインダーがアクティブです
+    </string>
+    <string name = "warner_passive">
+        マスクリマインダーはパッシブです
+    </string>
+    <string name = "select_here">
+        ここを選択
+    </string>
+    <string name = "notification_persistent">
+        マスクリマインダーがアクティブです
+    </string>
+    <string name = "debug_screen">
+        デバッグ画面
+    </string>
+    <string name = "options_screen">
+        オプション
+    </string>
+    <string name = "about">
+        約
+    </string>
+    <string name ="mask_reminder">
+        マスクリマインダー
+    </string>
+    <string name = "contact_me">
+        お問い合わせ
+    </string>
+    <string name = "my_email">
+        software.apricot@gmail.com
+    </string>
+    <string name = "instruct_2">
+        上記のポイントをドラッグして、ベースの場所を変更できます。
+        （あまり小さくすることはお勧めしません）
+    </string>
+    <string name = "instruct_1">
+        マップ上の任意の場所をクリックすると、ベースの場所を変更できます。
+    </string>
+    <string name = "instruct_3">
+        左の画像をクリックすると衛星写真をご覧いただけます。
+    </string>
+    <string name = "location_warning">
+        場所の設定を開く必要があります…
+    </string>
+    <string name = "open">
+        開いた
+    </string>
+    <string name = "techs">
+        このアプリで使用されるテクノロジー：
+    </string>
+    <string name = "tech_list">
+        Hilt (Dagger)
+        \n Google Location Services
+        \n Google Maps API
+        \n Room Database (passive)
+        \n MVVM Architecture
+        \n Coroutines
+        \n Services
+        \n Navigation Components
+        \n Material Design
+    </string>
+    <string name = "close_notif">
+        永続的な通知を閉じます
+    </string>
+    <string name = "it_may_not_work">
+        （一部のデバイスでは正常に動作しない場合があります）
+    </string>
+    <string name = "outside_warning">
+        あなたは外にいます！マスクを手に入れましたか？
+    </string>
+    <string name="rate_us">
+プレイストアで私たちを評価してください
+    </string>
+</resources>

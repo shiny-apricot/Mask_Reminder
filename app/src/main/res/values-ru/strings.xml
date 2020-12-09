@@ -1,0 +1,98 @@
+<resources>
+    <string name = "app_name">
+        Напоминание о маске
+    </string>
+    <string name = "entrance_text">
+        Нам нужно знать ваше домашнее местоположение, чтобы предупреждать вас, когда вы выходите на улицу.
+    </string>
+    <string name = "entrance_text_2">
+        Не волнуйтесь! Ваши данные никому не будут переданы
+    </string>
+    <string name = "next">
+        следующий
+    </string>
+    <string name = "pick">
+        Выбирать
+    </string>
+    <string name = "edit_home">
+        Измените свое базовое местоположение
+    </string>
+    <string name = "warner_active">
+        Напоминание о маске активно
+    </string>
+    <string name = "warner_passive">
+        Напоминание о маске пассивно
+    </string>
+    <string name = "select_here">
+        Выбрать здесь
+    </string>
+    <string name = "notification_persistent">
+        Напоминание о маске активно
+    </string>
+    <string name = "debug_screen">
+        Экран отладки
+    </string>
+    <string name = "options_screen">
+        Параметры
+    </string>
+    <string name = "about">
+        Около
+    </string>
+    <string name ="mask_reminder">
+        Напоминание о маске
+    </string>
+    <string name = "contact_me">
+        Связаться с нами
+    </string>
+    <string name = "my_email">
+        software.apricot@gmail.com
+    </string>
+    <string name = "instruct_2">
+        Вы можете изменить размер своего базового местоположения, перетащив точку выше.
+         (Мы не рекомендуем делать его настолько маленьким)
+    </string>
+    <string name = "instruct_1">
+        Вы можете изменить свое базовое местоположение, щелкнув в любом месте карты.
+    </string>
+    <string name = "instruct_3">
+        Вы можете увидеть изображение со спутника, щелкнув изображение слева.
+    </string>
+    <string name = "location_warning">
+        Вам нужно открыть настройку местоположения…
+    </string>
+    <string name = "open">
+        открыто
+    </string>
+    <string name = "techs">
+        Технологии, которые используются в этом приложении:
+    </string>
+    <string name = "tech_list">
+        Hilt (Dagger)
+        \n Google Location Services
+        \n Google Maps API
+        \n Room Database (passive)
+        \n MVVM Architecture
+        \n Coroutines
+        \n Services
+        \n Navigation Components
+        \n Material Design
+    </string>
+    <string name = "close_notif">
+        Закройте постоянное уведомление
+    </string>
+    <string name = "it_may_not_work">
+        (Это может не работать должным образом на некоторых устройствах)
+    </string>
+    <string name = "outside_warning">
+        Вы снаружи! Ты получил маску?
+    </string>
+    <string name="rate_us">
+        Оцените нас в Play Store
+    </string>
+    <string name="click_somewhere_on_the_map">
+        Щелкните где-нибудь на карте
+    </string>
+    <string name="return_your_location">
+        Верните свое местоположение
+    </string>
+</resources>

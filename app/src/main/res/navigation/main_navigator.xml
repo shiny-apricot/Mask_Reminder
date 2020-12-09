@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigator"
+    app:startDestination="@id/entranceFirst">
+
+    <fragment
+        android:id="@+id/homePage"
+        android:name="com.apricot.maskreminder.ui.home.HomePage"
+        android:label="fragment_home_page"
+        tools:layout="@layout/fragment_home_page" >
+        <action
+            android:id="@+id/action_homePage_to_debugFragment"
+            app:destination="@id/debugFragment" />
+        <action
+            android:id="@+id/action_homePage_to_aboutFragment"
+            app:destination="@id/aboutFragment" />
+        <action
+            android:id="@+id/action_homePage_to_mapsFragment"
+            app:destination="@id/mapsFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out" />
+        <action
+            android:id="@+id/action_homePage_to_optionsFragment"
+            app:destination="@id/optionsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.apricot.maskreminder.ui.entrance.FragmentMaps"
+        android:label="FragmentMaps"
+        tools:layout="@layout/fragment_maps">
+        <action
+            android:id="@+id/action_mapsFragment_to_homePage"
+            app:destination="@id/homePage"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popUpTo="@id/mapsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/debugFragment"
+        android:name="com.apricot.maskreminder.ui.navigation_view.DebugFragment"
+        android:label="DebugFragment" >
+        <action
+            android:id="@+id/action_debugFragment_to_homePage"
+            app:destination="@id/homePage" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.apricot.maskreminder.ui.navigation_view.AboutFragment"
+        android:label="AboutFragment" >
+        <action
+            android:id="@+id/action_aboutFragment_to_homePage"
+            app:destination="@id/homePage" />
+    </fragment>
+    <fragment
+        android:id="@+id/optionsFragment"
+        android:name="com.apricot.maskreminder.ui.navigation_view.OptionsFragment"
+        android:label="OptionsFragment" >
+        <action
+            android:id="@+id/action_optionsFragment_to_homePage"
+            app:destination="@id/homePage" />
+    </fragment>
+    <fragment
+        android:id="@+id/entranceFirst"
+        android:name="com.apricot.maskreminder.ui.entrance.EntranceFirst"
+        android:label="EntranceFirst" >
+        <action
+            android:id="@+id/action_entranceFirst_to_mapsFragment"
+            app:destination="@id/mapsFragment" />
+        <action
+            android:id="@+id/action_entranceFirst_to_homePage"
+            app:destination="@id/homePage" />
+    </fragment>
+</navigation>

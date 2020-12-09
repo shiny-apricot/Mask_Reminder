@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">تذكير القناع</string>
+    <string name="entrance_text">نحن بحاجة إلى معرفة مكان إقامته لتحذيرك عندما يخرج.</string>
+    <string name="entrance_text_2">يمكنك تغيير حجم الموقع الأساسي الخاص بك عن طريق سحب النقطة أعلاه.</string>
+    <string name="next">استمر</string>
+    <string name="pick">تحديد</string>
+    <string name="edit_home">تغيير موقع المنزل</string>
+    <string name="warner_active">تم تفعيل تذكير القناع</string>
+    <string name="warner_passive">قناع تذكير معطلة</string>
+    <string name="select_here">اختر هنا</string>
+    <string name="notification_persistent">تم تفعيل تذكير القناع</string>
+    <string name="debug_screen">شاشة التصحيح</string>
+    <string name="options_screen">خيارات</string>
+    <string name="about">عن التطبيق</string>
+    <string name="mask_reminder">تذكير القناع</string>
+    <string name="contact_me">اتصل بنا</string>
+    <string name="my_email" translatable="false">software.apricot@gmail.com</string>
+    <string name="instruct_2">يمكنك تغيير حجم الموقع الأساسي الخاص بك عن طريق سحب النقطة أعلاه.
+         (لا ننصحك بجعلها صغيرة جدًا)</string>
+    <string name="instruct_1">يمكنك تغيير موقع منزلك بالنقر فوق أي مكان على الخريطة.</string>
+    <string name="instruct_3">يمكنك التبديل إلى عرض القمر الصناعي بالنقر فوق المربع الصغير الموجود على اليمين.</string>
+    <string name="location_warning">يجب عليك فتح إعداد الموقع …</string>
+    <string name="open">جوعان</string>
+    <string name="techs">التقنيات المستخدمة في هذا التطبيق:</string>
+    <string name="tech_list" translatable="false"> Hilt (Dagger)
+        \n Google Location Services
+        \n Google Maps API
+        \n Room Database (passive)
+        \n MVVM Architecture
+        \n Coroutines
+        \n Services
+        \n Navigation Components
+        \n Material Design</string>
+    <string name="close_notif">رفض الإخطار الدائم</string>
+    <string name="it_may_not_work">(قد لا يعمل بشكل صحيح في بعض الهواتف)</string>
+    <string name="outside_warning">أنت خارج! هل لديك قناعك؟</string>
+    <string name="rate_us">قيمنا في متجر اللعب</string>
+</resources>

@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">
+¡Estás afuera! ¿Conseguiste tu máscara?    </string>
+    <string name="entrance_text">
+Necesitamos saber la ubicación de su casa para advertirle cada vez que salga.    </string>
+    <string name="entrance_text_2">
+¡No te preocupes! Tus datos no se compartirán con nadie    </string>
+    <string name="next">
+        Próximo
+    </string>
+    <string name="pick">
+        Recoger
+    </string>
+    <string name="edit_home">
+Cambia tu ubicación base    </string>
+    <string name="warner_active">
+El recordatorio de máscara está activo    </string>
+    <string name="warner_passive">
+El recordatorio de máscara es pasivo    </string>
+    <string name="select_here">
+Selecciona aquí    </string>
+    <string name="notification_persistent">
+El recordatorio de máscara está activo    </string>
+    <string name="debug_screen">
+Pantalla de depuración    </string>
+    <string name="options_screen">
+        Opciones
+    </string>
+    <string name="about">
+        Acerca de
+    </string>
+    <string name="mask_reminder">
+Recordatorio de máscara    </string>
+    <string name="contact_me">
+Contacta con nosotros    </string>
+    <string name="my_email">
+        software.apricot@gmail.com
+    </string>
+    <string name="instruct_2">
+        Puede cambiar el tamaño de su ubicación base arrastrando el punto de arriba.
+         (No te recomendamos que lo hagas tan pequeño)
+    </string>
+    <string name="instruct_1">
+Puede cambiar su ubicación base haciendo clic en cualquier parte del mapa.    </string>
+    <string name="instruct_3">
+        You can see satellite view by clicking the image on the left.
+    </string>
+    <string name="location_warning">
+Debes abrir la configuración de ubicación…    </string>
+    <string name="open">
+        Abierto
+    </string>
+    <string name="techs">
+Tecnologías que se utilizan en esta aplicación:    </string>
+    <string name="tech_list">
+        Hilt (Dagger)
+        \n Google Location Services
+        \n Google Maps API
+        \n Room Database (passive)
+        \n MVVM Architecture
+        \n Coroutines
+        \n Services
+        \n Navigation Components
+        \n Material Design
+    </string>
+    <string name="close_notif">
+        Cerrar la notificación persistente
+    </string>
+    <string name="it_may_not_work">
+(Puede que no funcione correctamente en algunos dispositivos)    </string>
+    <string name="outside_warning">
+¡Estás afuera! ¿Conseguiste tu máscara?    </string>
+    <string name="rate_us">
+        Califícanos en Play Store
+    </string>
+    <string name="click_somewhere_on_the_map">
+        Haga clic en algún lugar del mapa
+    </string>
+    <string name="return_your_location">
+        Devuelva su ubicación
+    </string>
+</resources>

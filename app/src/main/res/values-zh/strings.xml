@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">
+        面膜提醒
+    </string>
+    <string name="entrance_text">
+        我们需要知道您的住所，以便在您外出时向您发出警告。
+    </string>
+    <string name="entrance_text_2">
+        不用担心！您的数据不会与任何人共享
+    </string>
+    <string name="next">
+        下一个
+    </string>
+    <string name="pick">
+        挑
+    </string>
+    <string name="edit_home">
+        更改您的基本位置
+    </string>
+    <string name="warner_active">
+        面膜提醒处于活动状态
+    </string>
+    <string name="warner_passive">
+        面膜提醒是被动的
+    </string>
+    <string name="select_here">
+        选择这里
+    </string>
+    <string name="notification_persistent">
+        面膜提醒处于活动状态
+    </string>
+    <string name="debug_screen">
+        调试画面
+    </string>
+    <string name="options_screen">
+        选件
+    </string>
+    <string name="about">
+        关于
+    </string>
+    <string name="mask_reminder">
+        面膜提醒
+    </string>
+    <string name="contact_me">
+        联系我们
+    </string>
+    <string name="my_email">
+        software.apricot@gmail.com
+    </string>
+    <string name="instruct_2">
+         您可以通过拖动上方的点来更改基本位置的大小。
+         （我们不建议您将其缩小）
+    </string>
+    <string name="instruct_1">
+        您可以通过在地图上的任意位置单击来更改您的基本位置。
+    </string>
+    <string name="instruct_3">
+        单击左侧的图像可以看到卫星视图。
+    </string>
+    <string name="location_warning">
+        您需要打开位置设置…
+    </string>
+    <string name="open">
+        打开
+    </string>
+    <string name="techs">
+        此应用程序中使用的技术：
+    </string>
+    <string name="tech_list">
+        Hilt (Dagger)
+        \n Google Location Services
+        \n Google Maps API
+        \n Room Database (passive)
+        \n MVVM Architecture
+        \n Coroutines
+        \n Services
+        \n Navigation Components
+        \n Material Design
+    </string>
+    <string name="close_notif">
+        关闭永久性通知
+    </string>
+    <string name="it_may_not_work">
+        （在某些设备上可能无法正常工作）
+    </string>
+    <string name="outside_warning">
+        你在外面！你有没有戴口罩？
+    </string>
+    <string name="rate_us">
+        在游戏商店给我们打分
+    </string>
+    <string name="click_somewhere_on_the_map">
+        点击地图上的某处
+    </string>
+    <string name="return_your_location">
+        返回您的位置
+    </string>
+</resources>

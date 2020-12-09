@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">
+Maskenerinnerung    </string>
+    <string name="entrance_text">
+Wir müssen Ihren Heimatort kennen, um Sie zu warnen, wenn Sie nach draußen gehen.    </string>
+    <string name="entrance_text_2">
+Mach dir keine Sorgen! Ihre Daten werden an niemanden weitergegeben    </string>
+    <string name="next">
+        Nächster
+    </string>
+    <string name="pick">
+        Wählen Sie
+    </string>
+    <string name="edit_home">
+Ändern Sie Ihren Basisstandort    </string>
+    <string name="warner_active">
+Maskenerinnerung ist aktiv    </string>
+    <string name="warner_passive">
+Maskenerinnerung ist passiv    </string>
+    <string name="select_here">
+        Wähle hier aus</string>
+    <string name="notification_persistent">
+Maskenerinnerung ist aktiv    </string>
+    <string name="debug_screen">
+Debug-Bildschirm    </string>
+    <string name="options_screen">
+Optionen    </string>
+    <string name="about">
+        Über
+    </string>
+    <string name="mask_reminder">
+Maskenerinnerung    </string>
+    <string name="contact_me">
+Kontaktiere uns    </string>
+    <string name="my_email">
+        software.apricot@gmail.com
+    </string>
+    <string name="instruct_2">
+        Sie können die Größe Ihrer Basisposition ändern, indem Sie den obigen Punkt ziehen.
+         (Wir empfehlen Ihnen nicht, es so klein zu machen)
+    </string>
+    <string name="instruct_1">
+Sie können Ihren Basisstandort ändern, indem Sie auf eine beliebige Stelle auf der Karte klicken.    </string>
+    <string name="instruct_3">
+Sie können die Satellitenansicht sehen, indem Sie auf das Bild links klicken.    </string>
+    <string name="location_warning">
+Sie müssen die Standorteinstellung öffnen…    </string>
+    <string name="open">
+        Öffnen
+    </string>
+    <string name="techs">
+Technologien, die in dieser App verwendet werden:    </string>
+    <string name="tech_list">
+        Hilt (Dagger)
+        \n Google Location Services
+        \n Google Maps API
+        \n Room Database (passive)
+        \n MVVM Architecture
+        \n Coroutines
+        \n Services
+        \n Navigation Components
+        \n Material Design
+    </string>
+
+    <string name="close_notif">
+Schließen Sie die permanente Benachrichtigung    </string>
+    <string name="it_may_not_work">
+(Bei einigen Geräten funktioniert es möglicherweise nicht richtig.)    </string>
+    <string name="outside_warning">
+Du bist draußen! Hast du deine Maske bekommen?    </string>
+    <string name="rate_us">Bewerten Sie uns im Play Store</string>
+</resources>

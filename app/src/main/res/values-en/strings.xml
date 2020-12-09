@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">
+        Mask Reminder
+    </string>
+    <string name="entrance_text">
+        We need to know your home location in order to warn you whenever you go outside.
+    </string>
+    <string name="entrance_text_2">
+        Don\'t worry! Your data will not be shared with anyone
+    </string>
+    <string name="next">
+        Next
+    </string>
+    <string name="pick">
+        Pick
+    </string>
+    <string name="edit_home">
+        Change your base location
+    </string>
+    <string name="warner_active">
+        Mask Reminder is Active
+    </string>
+    <string name="warner_passive">
+        Mask Reminder is Passive
+    </string>
+    <string name="select_here">
+        Select here
+    </string>
+    <string name="notification_persistent">
+        Mask Reminder is Active
+    </string>
+    <string name="debug_screen">
+        Debug Screen
+    </string>
+    <string name="options_screen">
+        Options
+    </string>
+    <string name="about">
+        About
+    </string>
+    <string name="mask_reminder">
+        Mask Reminder
+    </string>
+    <string name="contact_me">
+        Contact Us
+    </string>
+    <string name="my_email">
+        software.apricot@gmail.com
+    </string>
+    <string name="instruct_2">
+        You can change your base location size by dragging the point above.
+        (We do not recommend you to make it so small)
+    </string>
+    <string name="instruct_1">
+        You can change your base location by clicking anywhere on the map.
+    </string>
+    <string name="instruct_3">
+        You can see satellite view by clicking the image on the left.
+    </string>
+    <string name="location_warning">
+        You need to open location setting…
+    </string>
+    <string name="open">
+        Open
+    </string>
+    <string name="techs">
+        Technologies that are used in this app:
+    </string>
+    <string name="tech_list">
+        Hilt (Dagger)
+        \n Google Location Services
+        \n Google Maps API
+        \n Room Database (passive)
+        \n MVVM Architecture
+        \n Coroutines
+        \n Services
+        \n Navigation Components
+        \n Material Design
+    </string>
+    <string name="close_notif">
+        Close the Persistent Notification
+    </string>
+    <string name="it_may_not_work">
+        (It may not work properly on some devices)
+    </string>
+    <string name="outside_warning">
+        You are outside! Did you get your mask?
+    </string>
+    <string name="rate_us">Rate us on Play Store</string>
+    <string name="click_somewhere_on_the_map">
+        Click somewhere on the map
+    </string>
+    <string name="return_your_location">
+        Return Your Location
+    </string>
+</resources>
