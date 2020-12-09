@@ -3,9 +3,9 @@
 ## How My Location Service Works? ##
  /*****************************************************************************
  * Since using GPS may cause significant amount of power usage in long term,
- * I decided not to use it. But it is highly possible for the other location 
- * data sources like wifi or cellular data to be incorrect. To solve this problem, 
- * I have written the algorithm below.
+ * I decided not to force the user to use it. But it is highly possible 
+ * for the other location data sources like wifi or cellular data to be incorrect.
+ * To solve this problem, I have written the algorithm below.
  *
  * ITS WORKING METHOD IS LIKE THIS:
  *
