@@ -3,9 +3,11 @@
 Google Play Link:
 https://play.google.com/store/apps/details?id=com.apricot.maskreminder
 
-https://imgur.com/yEf8BFV
-https://imgur.com/BvADdwL
-https://imgur.com/8NcJ7VD
+![alt text](https://imgur.com/yEf8BFV)
+![alt text](https://imgur.com/BvADdwL)
+![alt text](https://imgur.com/8NcJ7VD)
+
+
 
 ## How My Location Service Works? ##
  /*****************************************************************************
