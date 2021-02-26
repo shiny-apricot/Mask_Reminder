@@ -14,9 +14,14 @@ https://play.google.com/store/apps/details?id=com.apricot.maskreminder
 
 ## How My Location Service Works? ##
  /*****************************************************************************
- * Since using GPS may cause significant amount of power usage in long term,
- * I decided not to force the user to use it. But it is highly possible 
- * for the other location data sources like wifi or cellular data to be incorrect.
+ * My location service is designed to warn users if they get out of the home boundaries
+ * which are determined by the users and remind them to take their mask.
+ * 
+ * In this process, background location requests are needed.
+ * During this background location request process, 
+ * using GPS may cause significant amount of power usage in long term.
+ * At this point, I decided not to force the user to use it. However, it is highly possible 
+ * for the other location data sources other than GPS like 'wifi' or 'cellular data' to be incorrect.
  * To solve this problem, I have written the algorithm below.
  *
  * ITS WORKING METHOD IS LIKE THIS:
