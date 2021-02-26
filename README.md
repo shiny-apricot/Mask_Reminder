@@ -3,6 +3,10 @@
 Google Play Link:
 https://play.google.com/store/apps/details?id=com.apricot.maskreminder
 
+https://imgur.com/yEf8BFV
+https://imgur.com/BvADdwL
+https://imgur.com/8NcJ7VD
+
 ## How My Location Service Works? ##
  /*****************************************************************************
  * Since using GPS may cause significant amount of power usage in long term,
