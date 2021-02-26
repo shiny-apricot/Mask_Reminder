@@ -4,9 +4,9 @@ Google Play Link:
 https://play.google.com/store/apps/details?id=com.apricot.maskreminder
 
 <p align="center">
-  <img src="https://imgur.com/yEf8BFV.png" width="350" title="ss1">
-  <img src="https://imgur.com/BvADdwL.png" width="350" title="ss2">
-  <img src="https://imgur.com/8NcJ7VD.png" width="350" title="ss3">
+  <img src="https://imgur.com/yEf8BFV.png" width="200" title="ss1">
+  <img src="https://imgur.com/BvADdwL.png" width="200" title="ss2">
+  <img src="https://imgur.com/8NcJ7VD.png" width="200" title="ss3">
 </p>
 
 
