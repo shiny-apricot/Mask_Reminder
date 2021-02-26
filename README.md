@@ -3,9 +3,9 @@
 Google Play Link:
 https://play.google.com/store/apps/details?id=com.apricot.maskreminder
 
-![alt text](https://imgur.com/yEf8BFV)
-![alt text](https://imgur.com/BvADdwL)
-![alt text](https://imgur.com/8NcJ7VD)
+![alt text](https://imgur.com/yEf8BFV.png)
+![alt text](https://imgur.com/BvADdwL.png)
+![alt text](https://imgur.com/8NcJ7VD.png)
 
 
 
